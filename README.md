@@ -27,4 +27,7 @@ cp target/release/ufguest ~/bin
 ```
 
 You could also put a keybinding in your WM (Hyprland in this case):
-`bind = SUPER_SHIFT, U, exec, ~/bin/ufguest "~/.cache/selenium/geckodriver/linux-arm64/0.36.0/geckodriver"`
+
+```hyprlang
+bind = SUPER_SHIFT, U, exec, ~/bin/ufguest "~/.cache/selenium/geckodriver/linux-arm64/0.36.0/geckodriver"
+```
