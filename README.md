@@ -1,4 +1,4 @@
-# Ufguest
+# ufguest
 
 This program makes usage of ufguest less annoying by clicking the accept button for
 you.
