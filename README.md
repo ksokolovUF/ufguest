@@ -23,7 +23,7 @@ cd ufguest
 cargo build --release
 mkdir -p ~/bin
 cp target/release/ufguest ~/bin
-~/bin/ufguest /home/ki/.cache/selenium/geckodriver/linux-arm64/0.36.0/geckodriver
+~/bin/ufguest ~/.cache/selenium/geckodriver/linux-arm64/0.36.0/geckodriver
 ```
 
 You could also put a keybinding in your WM (Hyprland in this case):
